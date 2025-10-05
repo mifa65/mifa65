@@ -58,9 +58,11 @@ We use the latest and most reliable technologies to ensure performance and scala
 ## 🧩 Our Ongoing Projects  
 
 - **SmartBiz** — A lightweight POS + CRM system for local businesses.  
+- **MiFa Academy** — A Lightweight yet powerful Learning Management System(LMS).  
 - **BackFree** — An AI background remover web app.  
 - **CNC Marketplace** — A multi-vendor CNC design and machine trading platform.  
 - **Sopnopuron Blood Donor System** — A Django-based donation management system.  
+- **Mayaj** — A Django-based ecommerce platform.  
 
 ---
 

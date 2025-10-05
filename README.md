@@ -1,6 +1,6 @@
 # 🌐 Mifa — Your Digital Growth Partner  
 
-![Mifa Banner](https://via.placeholder.com/1200x400.png?text=Mifa+-+Digital+Growth+Partner)  
+![Mifa Banner](https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/494906734_122106875300852546_6412255606602964216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=UcyNVxsIWSgQ7kNvwE1Oh_G&_nc_oc=Adkxyk0J02dtmHQqVPK2X9CaGQ84z4seSQsYONcJD7CotpncMGA26_qwnTjGmIrzn70&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=eKvdAbpyQ7-2YCKGcGjoBw&oh=00_AfeXVm1_-RSzEMwjpA_JRFzlt4l0-cZFiDsfjGPT294bpw&oe=68E7D565)  
 
 ### 🚀 Empowering Businesses Through Technology, Design & Strategy  
 
